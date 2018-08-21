@@ -3,10 +3,10 @@ package com.example.nguyenthanhtungh.loadimagerecycler.data.model;
 
 import android.graphics.Bitmap;
 
-public class Human {
+public class Image {
     private Bitmap mImageBitmap;
 
-    public Human(Bitmap imageBitmap) {
+    public Image(Bitmap imageBitmap) {
         mImageBitmap = imageBitmap;
     }
 
